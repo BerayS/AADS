@@ -1,0 +1,15 @@
+C:\Users\serin\source\repos\AADS\AADS\bin\Debug\net6.0\AADS.exe
+C:\Users\serin\source\repos\AADS\AADS\bin\Debug\net6.0\AADS.deps.json
+C:\Users\serin\source\repos\AADS\AADS\bin\Debug\net6.0\AADS.runtimeconfig.json
+C:\Users\serin\source\repos\AADS\AADS\bin\Debug\net6.0\AADS.dll
+C:\Users\serin\source\repos\AADS\AADS\bin\Debug\net6.0\AADS.pdb
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.csproj.AssemblyReference.cache
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.AssemblyInfoInputs.cache
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.AssemblyInfo.cs
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.csproj.CoreCompileInputs.cache
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.dll
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\refint\AADS.dll
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.pdb
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\AADS.genruntimeconfig.cache
+C:\Users\serin\source\repos\AADS\AADS\obj\Debug\net6.0\ref\AADS.dll

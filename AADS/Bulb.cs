@@ -1,19 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AADS {
-    internal class Bulb {
+﻿    internal class Bulb {
 
         // Code
         //int[] states = { 0, 1, 0, 1 };
         //int N = states.Length;
 
         // Function Code
-int bulbs(int[] A, int N) {
-
+        int bulbs(int[] A, int N) {
             // To keep track of switch presses so far
             int count = 0;
             for (int i = 0; i < N; i++) {
@@ -32,4 +24,3 @@ int bulbs(int[] A, int N) {
             return count;
         }
     }
-}
